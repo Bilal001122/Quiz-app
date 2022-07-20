@@ -1,7 +1,31 @@
-# quiz_app
+# Quiz App
 
-A new Flutter project.
-![Screenshot](screenshot.png)
+Home Page :
+<br />
+<br />
+<img src="screenshot.png" width="280" height="500
+" align="left" align="top">
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 ## Getting Started
 
 This project is a starting point for a Flutter application.
